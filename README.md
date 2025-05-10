@@ -1,3 +1,4 @@
+https://youtu.be/SqcY0GlETPk?si=bbhP2S8WNc96b_6C
 
 # 🚀 从头开始：用 Vite 创建 React + TypeScript 项目 (中英文对照)
 
